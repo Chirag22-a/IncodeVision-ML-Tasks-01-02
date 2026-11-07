@@ -1,0 +1,39 @@
+Rows/columns before: (891, 15)
+Rows/columns after: (784, 15)
+Exact duplicate rows removed: 107
+Missing values before cleaning:
+survived         0
+pclass           0
+sex              0
+age            177
+sibsp            0
+parch            0
+fare             0
+embarked         2
+class            0
+who              0
+adult_male       0
+deck           688
+embark_town      2
+alive            0
+alone            0
+Missing values after cleaning:
+survived       0
+pclass         0
+sex            0
+age            0
+sibsp          0
+parch          0
+fare           0
+embarked       0
+class          0
+who            0
+adult_male     0
+deck           0
+embark_town    0
+alive          0
+alone          0
+IQR outlier counts (flagged, retained):
+{'survived': 0, 'pclass': 0, 'age': 39, 'sibsp': 39, 'parch': 15, 'fare': 102}
+Note: exact matching rows were removed; this dataset has no passenger ID to confirm identity.
+Note: missing deck values were labeled Unknown because most deck entries are absent.
