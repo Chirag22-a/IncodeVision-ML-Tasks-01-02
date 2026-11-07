@@ -1,0 +1,6 @@
+Samples: 20640
+Train: 16512 | Test: 4128
+MSE: 0.5559 ($100k units squared)
+RMSE: 0.7456 ($100k units)
+MAE: 0.5332 ($100k units)
+R-squared: 0.5758
