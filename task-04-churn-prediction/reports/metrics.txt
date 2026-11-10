@@ -1,0 +1,26 @@
+Dataset: IBM Telco Customer Churn sample
+Customer records: 7043
+Churn prevalence: 26.5%
+Train/test split: 5634 / 1409 (stratified)
+Classification threshold: 0.50
+Selected model (highest test ROC-AUC): Logistic Regression
+
+Logistic Regression
+Accuracy: 0.7381
+Precision (churn): 0.5043
+Recall (churn): 0.7834
+F1-score (churn): 0.6136
+ROC-AUC: 0.8413
+Confusion matrix [[TN, FP], [FN, TP]]:
+[[747 288]
+ [ 81 293]]
+
+Random Forest
+Accuracy: 0.7601
+Precision (churn): 0.5345
+Recall (churn): 0.7460
+F1-score (churn): 0.6228
+ROC-AUC: 0.8364
+Confusion matrix [[TN, FP], [FN, TP]]:
+[[792 243]
+ [ 95 279]]

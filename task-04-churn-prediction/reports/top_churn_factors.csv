@@ -1,0 +1,16 @@
+feature,importance_or_coefficient
+tenure,-1.1235888074254516
+Contract_Two year,-0.7812566697492104
+MonthlyCharges,-0.6635813703888234
+InternetService_DSL,-0.6210094851777105
+DeviceProtection_No internet service,-0.27456847321540107
+OnlineBackup_No internet service,-0.27456847321540107
+OnlineSecurity_No internet service,-0.27456847321540107
+InternetService_No,-0.27456847321540107
+TechSupport_No internet service,-0.27456847321540107
+StreamingTV_No internet service,-0.27456847321540107
+StreamingMovies_No internet service,-0.27456847321540107
+StreamingMovies_Yes,0.2749783925260954
+TotalCharges,0.4572105464812691
+Contract_Month-to-month,0.6633988113474905
+InternetService_Fiber optic,0.7053364815539813
